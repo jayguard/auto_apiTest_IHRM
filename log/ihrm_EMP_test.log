@@ -1,0 +1,4 @@
+2020-03-03 18:58:28,662 INFO [root] [test_department_operate.py(setUp:23)] - 员工模块请求头为：{'Content-Type': 'application/json', 'Authorization': 'Bearer 2e3e425f-f831-4d4c-81fa-a756372870ac'}
+2020-03-03 18:58:29,113 INFO [root] [test_department_operate.py(setUp:23)] - 员工模块请求头为：{'Content-Type': 'application/json', 'Authorization': 'Bearer 82767a9a-0693-42c3-84f4-c91e062badb4'}
+2020-03-03 18:58:29,537 INFO [root] [test_department_operate.py(setUp:23)] - 员工模块请求头为：{'Content-Type': 'application/json', 'Authorization': 'Bearer b3820400-fee0-4ca0-afd6-8bb49274cb65'}
+2020-03-03 18:58:30,006 INFO [root] [test_department_operate.py(setUp:23)] - 员工模块请求头为：{'Content-Type': 'application/json', 'Authorization': 'Bearer 3c246f2b-855f-4d90-bea8-e69a6e21a26a'}

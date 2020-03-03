@@ -1,0 +1,8 @@
+2020-03-03 18:53:27,297 INFO [root] [test_department_operate.py(setUp:18)] - 取出的令牌为：Bearer 57767ddc-61c7-41bc-915b-c50c7f946e9c
+2020-03-03 18:53:27,301 INFO [root] [test_department_operate.py(setUp:22)] - 员工模块请求头为：{'Content-Type': 'application/json', 'Authorization': 'Bearer 57767ddc-61c7-41bc-915b-c50c7f946e9c'}
+2020-03-03 18:53:27,753 INFO [root] [test_department_operate.py(setUp:18)] - 取出的令牌为：Bearer f6361971-3fa3-46cc-b15a-a6798638d35e
+2020-03-03 18:53:27,753 INFO [root] [test_department_operate.py(setUp:22)] - 员工模块请求头为：{'Content-Type': 'application/json', 'Authorization': 'Bearer f6361971-3fa3-46cc-b15a-a6798638d35e'}
+2020-03-03 18:53:28,187 INFO [root] [test_department_operate.py(setUp:18)] - 取出的令牌为：Bearer 6fc59ef3-a77a-410a-98a9-10342eb208db
+2020-03-03 18:53:28,188 INFO [root] [test_department_operate.py(setUp:22)] - 员工模块请求头为：{'Content-Type': 'application/json', 'Authorization': 'Bearer 6fc59ef3-a77a-410a-98a9-10342eb208db'}
+2020-03-03 18:53:28,628 INFO [root] [test_department_operate.py(setUp:18)] - 取出的令牌为：Bearer bb168eae-ddf3-4467-a17a-b3b04f419f82
+2020-03-03 18:53:28,629 INFO [root] [test_department_operate.py(setUp:22)] - 员工模块请求头为：{'Content-Type': 'application/json', 'Authorization': 'Bearer bb168eae-ddf3-4467-a17a-b3b04f419f82'}
