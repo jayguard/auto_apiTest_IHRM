@@ -14,3 +14,4 @@ with open(report_file, "wb") as f:
     runner = HTMLTestRunner(stream=f, verbosity=2, title="iHRM系统登陆接口测试", description="实现方式: 数据驱动")
     #verbosity:设置的参数可以标记用例执行的结果
     runner.run(suite)
+print("影子520!!")
